@@ -1,0 +1,15 @@
+Species;Distribution;Model1;Model2;Deviance explained;Mu_month;Mu_polygon;Si_month;Si_polygon
+Caretta caretta;BNB;3339,35;3308,99;39,68;0,00;0,00;0,00;0,00
+Chelonia mydas;NBII;7896,92;7860,02;67,88;0,00;0,00;0,00;0,00
+Lepidochelys olivacea;GPO;1278,80;1280,75;30,58;0,00;0,00;NA;NA
+Spheniscus magellanicus;SI;4617,42;4595,50;59,53;0,00;0,00;0,00;0,10
+Larus dominicanus;GPO;3755,38;3741,43;53,03;0,00;0,00;0,00;0,01
+Puffinus puffinus;SI;2567,24;2552,07;59,84;0,00;0,76;0,00;0,83
+Thalassarche chlororhynchos;NBII;2011,04;1995,80;23,02;0,00;0,00;0,00;0,00
+Thalassarche melanophris;DEL;1442,16;1448,98;23,52;0,00;0,00;NA;NA
+Procellaria aequinoctialis;GPO;1771,97;1779,14;18,18;0,00;0,00;NA;NA
+Fregata magnificens;SICHEL;1938,39;1933,67;23,75;0,00;0,00;0,39;0,00
+Sula leucogaster;ZINBI;3514,87;3468,40;38,67;0,01;0,00;0,00;0,00
+Pontoporia blainvillei;SICHEL;3314,98;3317,41;38,98;0,00;0,00;NA;NA
+Sotalia guianensis;GPO;1594,86;1581,73;42,26;NA;0,00;0,31;0,00
+Tursiops truncatus;PIG;966,91;NA;9,81;0,00;0,00;NA;NA
