@@ -9,6 +9,7 @@ Based on systematic daily beach surveys carried out during five consecutive year
 
 Workspace is set as follows, and we used an .RProj file to wrap it.
 
+```shell
 Strandings_PMP-BS_2015_2020
 ├── README.md
 ├── data
@@ -46,6 +47,7 @@ Strandings_PMP-BS_2015_2020
 │   └── 13_GAMLSS_figs_4_5_S6_S7.R
 ├── StrandingsTetrapodsPMP20152020_ICES.Rproj
 └── sessionInfo.txt
+```
 
 `data` has raw files, and `data_out` is the data after the wrangling processes (see `script/01_data_wrangling.R`). You should be able to reproduce all results using scrips in `script` and files from `data_out`.
 
