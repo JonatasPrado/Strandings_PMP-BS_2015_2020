@@ -1,0 +1,41 @@
+R version 4.1.1 (2021-08-10)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19043)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=Portuguese_Brazil.1252  LC_CTYPE=Portuguese_Brazil.1252   
+[3] LC_MONETARY=Portuguese_Brazil.1252 LC_NUMERIC=C                      
+[5] LC_TIME=Portuguese_Brazil.1252    
+
+attached base packages:
+[1] parallel  splines   stats     graphics  grDevices utils     datasets  methods  
+[9] base     
+
+other attached packages:
+ [1] gamlss_5.4-1      nlme_3.1-152      gamlss.dist_6.0-1 MASS_7.3-54      
+ [5] gamlss.data_6.0-2 gridExtra_2.3     janitor_2.1.0     cowplot_1.1.1    
+ [9] ggspatial_1.1.5   mapview_2.10.0    lubridate_1.7.10  readxl_1.3.1     
+[13] sf_1.0-2          forcats_0.5.1     stringr_1.4.0     dplyr_1.0.7      
+[17] purrr_0.3.4       readr_2.0.1       tidyr_1.1.3       tibble_3.1.3     
+[21] ggplot2_3.3.5     tidyverse_1.3.1   plyr_1.8.6       
+
+loaded via a namespace (and not attached):
+ [1] httr_1.4.2         jsonlite_1.7.2     modelr_0.1.8       assertthat_0.2.1  
+ [5] stats4_4.1.1       sp_1.4-5           cellranger_1.1.0   pillar_1.6.2      
+ [9] backports_1.2.1    lattice_0.20-44    glue_1.4.2         digest_0.6.27     
+[13] rvest_1.0.1        snakecase_0.11.0   colorspace_2.0-2   htmltools_0.5.1.1 
+[17] Matrix_1.3-4       pkgconfig_2.0.3    raster_3.5-15      broom_0.7.9       
+[21] haven_2.4.3        webshot_0.5.2      scales_1.1.1       satellite_1.0.2   
+[25] terra_1.5-21       tzdb_0.1.2         proxy_0.4-26       generics_0.1.0    
+[29] ellipsis_0.3.2     withr_2.4.2        cli_3.0.1          survival_3.2-11   
+[33] magrittr_2.0.1     crayon_1.4.1       fs_1.5.0           fansi_0.5.0       
+[37] xml2_1.3.2         class_7.3-19       tools_4.1.1        hms_1.1.1         
+[41] lifecycle_1.0.0    munsell_0.5.0      reprex_2.0.1       compiler_4.1.1    
+[45] e1071_1.7-8        rlang_0.4.11       classInt_0.4-3     units_0.7-2       
+[49] grid_4.1.1         rstudioapi_0.13    htmlwidgets_1.5.3  crosstalk_1.1.1   
+[53] leafem_0.1.6       base64enc_0.1-3    codetools_0.2-18   gtable_0.3.0      
+[57] DBI_1.1.1          R6_2.5.1           utf8_1.2.2         KernSmooth_2.23-20
+[61] stringi_1.7.3      Rcpp_1.0.7         png_0.1-7          vctrs_0.3.8       
+[65] leaflet_2.0.4.1    dbplyr_2.1.1       tidyselect_1.1.1  
