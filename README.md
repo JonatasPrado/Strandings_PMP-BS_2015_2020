@@ -1,8 +1,8 @@
 # Stranding of marine megafauna in SE Brazil, 2015--2020
 
-Here you will find all data and code needed to reproduce the results from Prado et al. (2022).
+Here you will find all data and code needed to reproduce the results from [Prado et al. 2022](https://github.com/JonatasPrado/Strandings_PMP-BS_2015_2020#citation).
 
-Based on systematic daily beach surveys carried out during five consecutive years along >800 km of coastline, we aimed to describe the TSP of sea turtle, seabird, and cetacean strandings in southeast Brazil. We adopted an exploratory modelling approach using temporal and spatial explanatory variables to discuss possible factors influencing stranding patterns. We expect that our results will serve as a baseline to monitor deviations in stranding numbers between areas and over time, helping to track environmental and biological changes, as well as anthropogenic threats.
+Based on systematic daily beach surveys carried out during five consecutive years along >800 km of coastline, we aimed to describe the temporal and spatial patterns of sea turtle, seabird, and cetacean strandings in southeast Brazil. We adopted an exploratory modelling approach using temporal and spatial explanatory variables to discuss possible factors influencing stranding patterns. We expect that our results will serve as a baseline to monitor deviations in stranding numbers between areas and over time, helping to track environmental and biological changes, as well as anthropogenic threats.
 
 ***
 ## Project structure
@@ -49,7 +49,7 @@ Strandings_PMP-BS_2015_2020
 └── sessionInfo.txt
 ```
 
-`data` has raw files, and `data_out` is the data after the wrangling processes (see `script/01_data_wrangling.R`). You should be able to reproduce all results using scrips in `script` and files from `data_out`.
+`data` has raw files (which you can also download from <https://simba.petrobras.com.br/simba/web/sistema/>), and `data_out` is the data after the wrangling processes (see `script/01_data_wrangling.R`). You should be able to reproduce all results using scrips in `script` and files from `data_out`.
 
 `sessionInfo.txt` lists all packages, versions, and dependencies needed.
 
@@ -62,4 +62,4 @@ This code was created by [Jonatas F. H. Prado](https://github.com/JonatasPrado) 
 ## Citation
 Please refer to the original article if using any piece of this repository.
 
-Prado, J.H.F.; Daudt, N.W.; Perez, M.S.; Castilho, P.V.; Monteiro, D.S. (2022) Intensive and wide-ranging beach surveys uncover temporal and spatial stranding patterns of marine megafauna. *ICES J. Mar. Sci.*
+Prado, J.H.F.; Daudt, N.W.; Perez, M.S.; Castilho, P.V.; Monteiro, D.S. (2022) Intensive and wide-ranging beach surveys uncover temporal and spatial stranding patterns of marine megafauna. *ICES J. Mar. Sci.* doi:10.1093/icesjms/fsac119
