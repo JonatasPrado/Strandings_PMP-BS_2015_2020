@@ -63,3 +63,5 @@ This code was created by [Jonatas F. H. Prado](https://github.com/JonatasPrado) 
 Please refer to the original article if using any piece of this repository.
 
 Prado, J.H.F.; Daudt, N.W.; Perez, M.S.; Castilho, P.V.; Monteiro, D.S. (2022) Intensive and wide-ranging beach surveys uncover temporal and spatial stranding patterns of marine megafauna. *ICES J. Mar. Sci.* doi:10.1093/icesjms/fsac119
+
+[![DOI](https://zenodo.org/badge/498091124.svg)](https://zenodo.org/badge/latestdoi/498091124)
